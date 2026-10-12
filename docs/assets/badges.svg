@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 32" width="990" height="32" role="img" aria-labelledby="title desc">
+  <title id="title">Python 3.13 · PySpark 4.0.2 · Parquet · WSL Ubuntu · 89 tests réussis localement</title>
+  <desc id="desc">Badges statiques. Les tests sont un résultat local, pas une validation CI.</desc>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle">
+    <rect x="0" width="135" height="30" rx="5" fill="#edf2f7"/>
+    <text x="67.5" y="20" fill="#19334c">Python 3.13</text>
+    <rect x="145" width="155" height="30" rx="5" fill="#edf2f7"/>
+    <text x="222.5" y="20" fill="#19334c">PySpark 4.0.2</text>
+    <rect x="310" width="115" height="30" rx="5" fill="#edf2f7"/>
+    <text x="367.5" y="20" fill="#19334c">Parquet</text>
+    <rect x="435" width="145" height="30" rx="5" fill="#edf2f7"/>
+    <text x="507.5" y="20" fill="#19334c">WSL Ubuntu</text>
+    <rect x="590" width="395" height="30" rx="5" fill="#e8f4ee"/>
+    <text x="787.5" y="20" fill="#226447">89 tests réussis localement · pas CI</text>
+  </g>
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg role="img" aria-labelledby="chart-title chart-desc" width="1040" height="440" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1040 440" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title id="chart-title">Temps synthétiques 100k et 1m</title>
+	<desc id="chart-desc">Médiane et intervalle minimum-maximum des trois mesures manuelles fournies, en secondes.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1040" height="440"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-440)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="1040" height="440" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="36" y="408" style="font-family: Arial, Helvetica, sans-serif; font-size: 23px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,816) scale(1,-1)">Synthétique · durée des CLI</text>
+			<text x="36" y="382" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;fill: rgb(32%,39%,46%); stroke:none;" transform="translate(0,764) scale(1,-1)">Mesures manuelles fournies · trois exécutions par volume et par phase</text>
+			<g transform="">
+				<g transform="">
+					<g transform="">
+						<path d="M 205,130 L 750,130 Z" style="stroke: rgb(71%,76%,81%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 205,130 L 205,125 Z" style="stroke: rgb(71%,76%,81%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 341.25,130 L 341.25,125 Z" style="stroke: rgb(71%,76%,81%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 477.5,130 L 477.5,125 Z" style="stroke: rgb(71%,76%,81%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 613.75,130 L 613.75,125 Z" style="stroke: rgb(71%,76%,81%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 750,130 L 750,125 Z" style="stroke: rgb(71%,76%,81%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,205,125)">
+							<text x="-3.3360000000000003" y="-12.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-24) scale(1,-1)">0</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,341.25,125)">
+							<text x="-6.672000000000001" y="-12.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-24) scale(1,-1)">20</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,477.5,125)">
+							<text x="-6.672000000000001" y="-12.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-24) scale(1,-1)">40</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,613.75,125)">
+							<text x="-6.672000000000001" y="-12.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-24) scale(1,-1)">60</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,750,125)">
+							<text x="-6.672000000000001" y="-12.0" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-24) scale(1,-1)">80</text>
+						</g>
+					</g>
+				</g>
+				<g transform=""/>
+				<g transform="">
+					<polyline points="395.5456 315.5, 452.975 315.5" style="stroke: rgb(14%,38%,92%); stroke-linecap: round; stroke-width: 3; fill: None; fill-rule: evenodd;"/>
+					<circle cx="395.545625" cy="315.5" r="2.5" style="stroke: rgb(14%,38%,92%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(14%,38%,92%); fill-rule: evenodd;"/>
+					<circle cx="452.975" cy="315.5" r="2.5" style="stroke: rgb(14%,38%,92%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(14%,38%,92%); fill-rule: evenodd;"/>
+					<polygon points="392.7475 315.5, 398.7475 321.5, 404.7475 315.5, 398.7475 309.5" style="stroke: rgb(14%,38%,92%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(14%,38%,92%); fill-rule: evenodd;"/>
+					<polyline points="412.8494 262.5, 446.0944 262.5" style="stroke: rgb(5%,46%,43%); stroke-linecap: round; stroke-width: 3; fill: None; fill-rule: evenodd;"/>
+					<circle cx="412.849375" cy="262.5" r="2.5" style="stroke: rgb(5%,46%,43%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(5%,46%,43%); fill-rule: evenodd;"/>
+					<circle cx="446.094375" cy="262.5" r="2.5" style="stroke: rgb(5%,46%,43%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(5%,46%,43%); fill-rule: evenodd;"/>
+					<polygon points="439.2088 262.5, 445.2088 268.5, 451.2088 262.5, 445.2088 256.5" style="stroke: rgb(5%,46%,43%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(5%,46%,43%); fill-rule: evenodd;"/>
+					<polyline points="574.7144 209.5, 701.495 209.5" style="stroke: rgb(14%,38%,92%); stroke-linecap: round; stroke-width: 3; fill: None; fill-rule: evenodd;"/>
+					<circle cx="574.714375" cy="209.5" r="2.5" style="stroke: rgb(14%,38%,92%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(14%,38%,92%); fill-rule: evenodd;"/>
+					<circle cx="701.4949999999999" cy="209.5" r="2.5" style="stroke: rgb(14%,38%,92%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(14%,38%,92%); fill-rule: evenodd;"/>
+					<polygon points="620.6256 209.5, 626.6256 215.5, 632.6256 209.5, 626.6256 203.5" style="stroke: rgb(14%,38%,92%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(14%,38%,92%); fill-rule: evenodd;"/>
+					<polyline points="454.1331 156.5, 490.6481 156.5" style="stroke: rgb(5%,46%,43%); stroke-linecap: round; stroke-width: 3; fill: None; fill-rule: evenodd;"/>
+					<circle cx="454.133125" cy="156.5" r="2.5" style="stroke: rgb(5%,46%,43%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(5%,46%,43%); fill-rule: evenodd;"/>
+					<circle cx="490.648125" cy="156.5" r="2.5" style="stroke: rgb(5%,46%,43%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(5%,46%,43%); fill-rule: evenodd;"/>
+					<polygon points="459.6463 156.5, 465.6463 162.5, 471.6463 156.5, 465.6463 150.5" style="stroke: rgb(5%,46%,43%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(5%,46%,43%); fill-rule: evenodd;"/>
+				</g>
+			</g>
+			<text x="785" y="350" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;fill: rgb(32%,39%,46%); stroke:none;" transform="translate(0,700) scale(1,-1)">Médiane [min – max] (s)</text>
+			<text x="36" y="311.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px;fill: rgb(14%,38%,92%); stroke:none;" transform="translate(0,623) scale(1,-1)">100k · Silver</text>
+			<text x="785" y="311.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,623) scale(1,-1)">28,44 [27,97 – 36,40]</text>
+			<text x="36" y="258.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px;fill: rgb(5%,46%,43%); stroke:none;" transform="translate(0,517) scale(1,-1)">100k · Gold</text>
+			<text x="785" y="258.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,517) scale(1,-1)">35,26 [30,51 – 35,39]</text>
+			<text x="36" y="205.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px;fill: rgb(14%,38%,92%); stroke:none;" transform="translate(0,411) scale(1,-1)">1m · Silver</text>
+			<text x="785" y="205.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,411) scale(1,-1)">61,89 [54,27 – 72,88]</text>
+			<text x="36" y="152.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px;fill: rgb(5%,46%,43%); stroke:none;" transform="translate(0,305) scale(1,-1)">1m · Gold</text>
+			<text x="785" y="152.5" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,305) scale(1,-1)">38,26 [36,57 – 41,93]</text>
+			<text x="395.7175" y="87" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;fill: rgb(32%,39%,46%); stroke:none;" transform="translate(0,174) scale(1,-1)">Durée totale CLI (secondes)</text>
+			<text x="36" y="48" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,96) scale(1,-1)">Losange : médiane · segment et extrémités : minimum / maximum</text>
+			<text x="36" y="18" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px;fill: rgb(32%,39%,46%); stroke:none;" transform="translate(0,36) scale(1,-1)">Source : benchmarks/results.csv · WSL /mnt/c · démarrage Spark inclus · seed 42</text>
+		</g>
+	</g>
+</svg>
